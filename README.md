@@ -2,7 +2,7 @@
  Data Structures in Python.
 
 Here we will learn:
-    1. Binary Search and Complexity Analysis
+    1. Binary Search and Complexity Analysis "\n"
     2. Python Classes and Linked Lists
     3. Arrays | Stacks | Queues | Strings
     4. Binary Search Trees and hash Tables
